@@ -55,6 +55,12 @@ classDiagram
 
 ## Documentação da API (Swagger)
 
+### Swagger em Produção (Railway) 
+
+A API já está em produção! Você pode acessar a documentação interativa e testar os endpoints reais diretamente no navegador através do link abaixo:
+
+- `https://web-production-00076.up.railway.app/swagger-ui/index.html`
+
 ### Swagger local
 
 Assim que a aplicação sobe, a interface do Swagger fica disponível em:
